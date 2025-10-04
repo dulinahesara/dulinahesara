@@ -1,13 +1,7 @@
-👋 Hi, I'm Dulina Hesara
+👋 Hi, I’m Dulina Hesara
+IT undergrad, musician, and tech enthusiast blending creativity with technology.
 
-I'm an IT undergraduate, musician, and tech enthusiast who loves creating projects that blend creativity with technology.
+💡 Skills
+✅ IoT & Embedded Systems ✅ Web & Software Dev ✅ Music Production ✅ Digital Art
 
-💡 What I Do
-
-✅ IoT and Embedded Systems (Arduino, ESP32, NodeMCU)
-✅ Software and Web Development
-✅ Music Production and Sound Design
-✅ Digital Art and Design
-
-📫 Connect with Me
-LinkedIn: linkedin.com/in/dulina-hesara
+📫 Connect: linkedin.com/in/dulina-hesara
