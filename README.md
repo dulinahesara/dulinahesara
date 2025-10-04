@@ -4,4 +4,4 @@ IT undergrad, musician, and tech enthusiast blending creativity with technology.
 💡 Skills
 ✅ IoT & Embedded Systems ✅ Web & Software Dev ✅ Music Production ✅ Digital Art
 
-📫 Connect: linkedin.com/in/dulina-hesara
+📫 Connect: https://www.linkedin.com/in/dulina-hesara 
